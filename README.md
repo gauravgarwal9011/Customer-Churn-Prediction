@@ -1,4 +1,4 @@
-# <div align="center">Telecom Customer Churn Prediction</div>
+# <div align="center">Customer Churn Prediction</div>
 ![Intro](https://raw.githubusercontent.com/gauravgarwal9011/Customer-Churn-Prediction/refs/heads/main/Images/Customer-churn.webp)
 
 ## What is Customer Churn?
