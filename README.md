@@ -91,3 +91,17 @@ To detect early signs of potential churn, one must first develop a holistic view
 
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 > New customers are more likely to churn.
+
+### 12.Confusion Matrix
+
+#### <div align="center">Logistic Regression</div>
+![Confusion Matrix](https://github.com/gauravgarwal9011/Customer-Churn-Prediction/blob/main/Images/Logistic%20Regression.png)
+
+#### <div align="center">Decision Tree</div>
+![Confusion Matrix](https://github.com/gauravgarwal9011/Customer-Churn-Prediction/blob/main/Images/Decision%20Tree.png)
+
+#### <div align="center">Random Forest</div>
+![Confusion Matrix](https://github.com/gauravgarwal9011/Customer-Churn-Prediction/blob/main/Images/Random%20Forest.png)
+
+### 13.Final Model: Random Forest Classifier
+From the Above models, we can say that the Random Forest Model performs much better than the other models. Customer churn economically decreases the company's funds and affects it's profitability.
